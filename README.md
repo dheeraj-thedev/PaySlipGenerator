@@ -18,8 +18,7 @@
 	
 	Net Salary 3700.0
 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     Employee Id : 102 | Employee Name : TomSalary Details 
     --------------------------------------------------
     Basic Salary : 5500.0
@@ -36,51 +35,51 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	Net Salary 4785.0
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Employee Id : 103 | Employee Name : SallySalary Details 
---------------------------------------------------
-Basic Salary : 2300.0
-Allowances : 230.0
---------------------------------------------------
+    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Employee Id : 103 | Employee Name : SallySalary Details 
+    --------------------------------------------------
+    Basic Salary : 2300.0
+    Allowances : 230.0
+    --------------------------------------------------
 	 Gross : 2530.0
-Deductions :  
---------------------------------------------------
-Insurance : 60.0
-Income Tax 460.0
---------------------------------------------------
-60.0460.0
+    Deductions :  
+    --------------------------------------------------
+    Insurance : 60.0
+    Income Tax 460.0
+    --------------------------------------------------
+    60.0460.0
 
 	 Net Salary 2010.0
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Employee Id : 104 | Employee Name : StacySalary Details 
---------------------------------------------------
-Basic Salary : 6900.0
-Allowances : 690.0
---------------------------------------------------
+     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	Employee Id : 104 | Employee Name : StacySalary Details 
+	--------------------------------------------------
+	Basic Salary : 6900.0
+	Allowances : 690.0
+	--------------------------------------------------
 	 Gross : 7590.0
-Deductions :  
---------------------------------------------------
-Insurance : 200.0
-Income Tax 1380.0
---------------------------------------------------
-200.01380.0
+	Deductions :  
+	--------------------------------------------------
+	Insurance : 200.0
+	Income Tax 1380.0
+	--------------------------------------------------
+	200.01380.0
 
 	 Net Salary 6010.0
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Employee Id : 105 | Employee Name : TimothySalary Details 
---------------------------------------------------
-Basic Salary : 6575.0
-Allowances : 657.5
---------------------------------------------------
+	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	Employee Id : 105 | Employee Name : TimothySalary Details 
+	--------------------------------------------------
+	Basic Salary : 6575.0
+	Allowances : 657.5
+	--------------------------------------------------
 	 Gross : 7232.5
-Deductions :  
---------------------------------------------------
-Insurance : 350.0
-Income Tax 1315.0
---------------------------------------------------
-350.01315.0
+	Deductions :  
+	--------------------------------------------------
+	Insurance : 350.0
+	Income Tax 1315.0
+	--------------------------------------------------
+	350.01315.0
 
 	 Net Salary 5567.5
 
