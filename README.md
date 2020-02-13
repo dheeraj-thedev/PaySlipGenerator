@@ -3,37 +3,37 @@
 <img src="https://github.com/dheeraj-thedev/PaySlipGenerator/blob/master/EmployeeRecord.png">
 # Above format has to be converted into below format 
 
-#Employee Id : 101 | Employee Name : MikeSalary Details 
-#--------------------------------------------------
-#Basic Salary : 4500.0
-#Allowances : 450.0
-#--------------------------------------------------
-	 Gross : 4950.0
-#Deductions :  
-#--------------------------------------------------
-#Insurance : 350.0
-#Income Tax 900.0
-#--------------------------------------------------
-#350.0900.0
-
-#	 Net Salary 3700.0
+    Employee Id : 101 | Employee Name : MikeSalary Details 
+    --------------------------------------------------
+    Basic Salary : 4500.0
+    Allowances : 450.0
+    --------------------------------------------------
+    Gross : 4950.0
+    Deductions :  
+    --------------------------------------------------
+    Insurance : 350.0
+    Income Tax 900.0
+    --------------------------------------------------
+    350.0900.0
+	
+	Net Salary 3700.0
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Employee Id : 102 | Employee Name : TomSalary Details 
---------------------------------------------------
-Basic Salary : 5500.0
-Allowances : 550.0
---------------------------------------------------
+    Employee Id : 102 | Employee Name : TomSalary Details 
+    --------------------------------------------------
+    Basic Salary : 5500.0
+    Allowances : 550.0
+    --------------------------------------------------
 	 Gross : 6050.0
-Deductions :  
---------------------------------------------------
-Insurance : 165.0
-Income Tax 1100.0
---------------------------------------------------
-165.01100.0
+    Deductions :  
+    --------------------------------------------------
+    Insurance : 165.0
+    Income Tax 1100.0
+    --------------------------------------------------
+    165.01100.0
 
-	 Net Salary 4785.0
+	Net Salary 4785.0
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
